@@ -1,4 +1,4 @@
-<img width="1219" height="788" alt="Screenshot" src="https://github.com/user-attachments/assets/49cc6a4c-d689-43c0-95f9-c51ebd12e2d9" /># 🌿 George’s Green Garden — Custom Garden Website
+# 🌿 George’s Green Garden — Custom Garden Website
 
 Project: `George’s Green Garden`  
 Type: `Custom WordPress Theme + Brand Design`  
